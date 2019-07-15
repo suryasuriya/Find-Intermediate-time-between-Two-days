@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="enterDate">Enter Your Data</string>
+    <string name="enter_the_time">Enter the Time</string>
+    <string name="check">Check</string>
+</resources>
